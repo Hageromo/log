@@ -1,1 +1,1 @@
-Klasa SecurityConfiguration jest sposobem dodania uzytkowników manualnie, w całości zakometowana.
+Klasa 'SecurityConfiguration' jest sposobem dodania uzytkowników manualnie, w całości zakometowana.
